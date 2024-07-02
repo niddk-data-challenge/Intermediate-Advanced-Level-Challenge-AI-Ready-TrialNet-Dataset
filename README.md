@@ -20,7 +20,7 @@ To make dataset file sizes more manageable to merge in the NIDDK-CR Analytics Wo
 (*) Features that were fully empty (i.e., no non-missing values), free-text, or non-informative (i.e., all entries have the same value, or administrative variable) have been redacted from the study datasets. Please reference the [name of file] that contains a list of features that were redacted/dropped from the TN01, TN16, TN19, and TN20 datasets.
 
 > [!Important]
-> Documentation used to redact the TN01, TN16, TN19, and TN20 datasets to generate the Challenge-specific datasets described above are available in the [name of folder]. Please reference the [name of file] that contains a list of features that were redacted/dropped from the TN01, TN16, TN19, and TN20 datasets.
+> Documentation used to redact the TN01, TN16, TN19, and TN20 datasets to generate the Challenge-specific datasets described above are available in the [Challenge Dataset Information] (https://github.com/niddk-data-challenge/Intermediate-Advanced-Level-Challenge-AI-Ready-TrialNet-Dataset/tree/628cb642fc94e3600c660fdd7ada6b76d6b452ca/Challenge%20Dataset%20Information) folder. Please reference the [name of file] that contains a list of features that were redacted/dropped from TN01, TN16, TN19, and TN20 datasets to generate the Challenge-specific datasets.
 
 If you are requesting access to, or have access to the TrialNet data from the NIDDK-CR, please reference this documentation to replicate the Challenge-specific datasets that were made available to participants for the Data Centric Challenge. 
 
