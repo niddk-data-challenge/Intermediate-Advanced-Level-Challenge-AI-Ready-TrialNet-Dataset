@@ -7,7 +7,7 @@ This repository contains the scripts used to generate the AI-ready dataset for t
 
 FI Consulting, led by Dr. Alice Loveys, successfully consolidated and unified multiple TrialNet datasets and identified data outliers. The team enhanced raw data to ensure consistent variable representation and identified numeric and categorical “missingness” to prevent modeling bias, thus enhancing TrialNet data for AI-readiness. The team prepared a dataset for time-series analysis, making the data more likely to inform prevention and personalized treatment plans for those at risk of diabetes and diabetes-related complications. FI Consulting selected the prize to present their challenge results at the NIH Office of Data Science Strategy (ODSS) Data Sharing and Reuse Seminar Series. The recording from the May 10, 2024 presentation is available [HERE](https://www.youtube.com/watch?v=CrABW02QB30).
 
-## Preprocessing Challenge Datasets
+## Summary of Challenge Datasets
 To make dataset file sizes more manageable to merge in the NIDDK-CR Analytics Workbench environment hosted by AWS, while enabling Challengers to retain as many features as possible, the NIDDK-CR Support Team performed feature redactions and participant sampling (as described in the table below) prior to making the data available in the Workbench environment. This sampling schema retained the maximum number of participants and features that can be successfully merged in the Workbench environment, while maintaining a justifiable and useful study design for many potential use-cases, including multiple disease outcomes and life-course events. 
 
 | Study | Datasets |  Features *    |Participants| Data Dictionary|
