@@ -95,7 +95,7 @@ _Harmonizing by MaskID and Visit Date:_
 
 To ensure different lab results are correctly associated with each patient, FI used “MaskID” and “Date_of_Draw” (the date the lab sample was collected) as primary keys to embed lab results. This maintained the uniqueness of the “MaskID” and “Date_of_Draw” combinations. FI proceed by changing the “Date_of_Draw” in the lab result record to “Visit_Dt”. This allowed FI to merge the embedded lab results with other information, ensuring that “MaskID” and “Visit_Dt” together acted as a unique identifier for each entry in the dataset.
 
-#### _How did you handle the missing data_
+#### _How did you handle missing data_
 
 The data set should represent the most informative and reliable data available for meaningful data analysis.
 
