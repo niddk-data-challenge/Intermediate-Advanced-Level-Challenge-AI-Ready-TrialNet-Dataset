@@ -1,4 +1,4 @@
-## TrialNet AI-Ready Scripts
+## TrialNet AI-Ready Scripts: README
 These two notebooks are FI Consulting's (Team-5) code used to merge raw datasets and prepare the dataset to be AI ready.
 Please run the notebooks in the following order:
 
