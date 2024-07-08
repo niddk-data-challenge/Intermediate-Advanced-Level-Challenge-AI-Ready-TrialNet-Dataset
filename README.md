@@ -35,6 +35,7 @@ Additional information about each study and corresponding documentation (e.g., p
 
 ### Title of Project: Data Curation and Harmonization via AI/ML Assisted Semantic Interoperability Algorithm (SIA) 
 
+#### _AI-Ready Scripts_
 > [!IMPORTANT]
 > Scripts created by the winning team (ICF Consulting) to generate the AI-ready dataset for TrialNet are available in the [AI-Ready Scripts](https://github.com/niddk-data-challenge/Intermediate-Advanced-Level-Challenge-AI-Ready-TrialNet-Dataset/tree/47503b11d9b5b3636925187a7ab4ee6ada664dd3/AI-Ready%20Scripts) folder. Instructions on running this file can be found in the README. Additional information about the AI-ready dataset, data enhancement steps and methods used to generate the AI-ready data, handling of missingness, and potential use-cases for the AI-ready dataset are described in detail below.
 
