@@ -124,3 +124,6 @@ Diabetes: Identifying risks for diabetes development or complication risk
 Because this dataset is optimized for time-series analysis, the dataset may be valuable for identifying those at risk of developing diabetes or those at risk from developing serious diabetic complications. The data contains longitudinal records that allow for tracking the progression of diabetes in patients over time. Researchers and healthcare practitioners can employ time series analysis techniques to monitor the evolution of the disease and identify trends or patterns in patient outcomes.
 
 A modeler could extract feature importance from the trained machine learning model allowing researchers and healthcare professionals to leverage this information to gain insights into the factors that play a significant role in the development or progression of diabetes. The result can guide preventive measures and personalized treatment plans for individuals at risk of diabetes or diabetic complications. Even without developing machine learning models, a researcher could build statistical modeling and correlation studies, to identify the variables that impact or correlate with each other.
+
+## Questions?
+For questions about this GitHub repository or the Data Centric Challenge, please contact the NIDDK-CR Administrator at NIDDK-CRsupport@niddk.nih.gov
