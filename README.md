@@ -39,7 +39,7 @@ Additional information about each study and corresponding documentation (e.g., p
 
 #### _AI-Ready Scripts_
 > [!IMPORTANT]
-> Scripts created by the winning team (FI Consulting) to generate the AI-ready dataset for TrialNet are available in the [AI-Ready Scripts](AI-Ready Scripts) folder. Instructions on running the scripts and the data dictionary can be found in the README in this folder. Additional information about the AI-ready dataset, data enhancement steps and methods used to generate the AI-ready data, handling of missingness, and potential use-cases for the AI-ready dataset are described in detail below.
+> Scripts created by the winning team (FI Consulting) to generate the AI-ready dataset for TrialNet are available in the [AI-Ready Scripts](AI-Ready Scripts/) folder. Instructions on running the scripts and the data dictionary can be found in the README in this folder. Additional information about the AI-ready dataset, data enhancement steps and methods used to generate the AI-ready data, handling of missingness, and potential use-cases for the AI-ready dataset are described in detail below.
 
 #### _Description of AI-Ready Dataset_
 The FI Consulting (FI) AI-ready dataset is a curated and preprocessed dataset optimized for modeling and machine learning AI tasks. FI created this dataset by merging all available study results into a single raw dataset and then optimizing the dataset in a sequential fashion. This AI-ready dataset represents data on 235,396 patients contained in 259,064 rows and 473 columns. Each row represents a visit record.
